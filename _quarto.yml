@@ -22,7 +22,7 @@ execute:
 
 bibliography: files/bib/references.bib
 csl: files/bib/chicago-author-date.csl
-description-meta: "Estrategias de Investigación Cuantitativa"
+description-meta: "Feminismo de Datos"
 
 website:
   title: "Estrategias de Investigación Cuantitativa"
