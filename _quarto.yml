@@ -26,7 +26,7 @@ description-meta: "Feminismo de Datos"
 
 website:
   title: "Feminismo de Datos"
-  #site-url: "https://" #cambiar!!
+  site-url: "https://maitejullian.github.io/Feminismo-de-Datos/" #cambiar!!
 
   favicon: "/files/log-transparente.png" #revisar
 
