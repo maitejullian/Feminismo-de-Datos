@@ -20,3 +20,5 @@ projects/*.zip
 files/incomplete-reports.zip
 
 
+
+**/*.quarto_ipynb

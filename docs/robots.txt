@@ -1,1 +1,1 @@
-Sitemap: https://cuantitativa.netlify.app/sitemap.xml
+Sitemap: https://maitejullian.github.io/Feminismo-de-Datos/sitemap.xml

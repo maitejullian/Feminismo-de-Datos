@@ -6,14 +6,14 @@
       version="2.0">
 <channel>
 <title>Informaciones Estrategias de Investigación Cuantitativa</title>
-<link>https://cuantitativa.netlify.app/news/</link>
-<atom:link href="https://cuantitativa.netlify.app/news/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://maitejullian.github.io/Feminismo-de-Datos/news/</link>
+<atom:link href="https://maitejullian.github.io/Feminismo-de-Datos/news/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.4.554</generator>
+<generator>quarto-1.9.38</generator>
 <lastBuildDate>Sat, 01 Aug 2026 04:00:00 GMT</lastBuildDate>
 <item>
   <title>Tutorial página del curso</title>
-  <link>https://cuantitativa.netlify.app/news/2025_08_20.html</link>
+  <link>https://maitejullian.github.io/Feminismo-de-Datos/news/2025_08_20.html</link>
   <description><![CDATA[ 
 
 <div class="back-nav"><a href="../news/">← News</a></div>
@@ -44,9 +44,9 @@
 
  ]]></description>
   <category>inicio</category>
-  <guid>https://cuantitativa.netlify.app/news/2025_08_20.html</guid>
+  <guid>https://maitejullian.github.io/Feminismo-de-Datos/news/2025_08_20.html</guid>
   <pubDate>Sat, 01 Aug 2026 04:00:00 GMT</pubDate>
-  <media:content url="https://cuantitativa.netlify.app/files/img/news_01.png" medium="image" type="image/png" height="204" width="144"/>
+  <media:content url="https://maitejullian.github.io/Feminismo-de-Datos/files/img/news_01.png" medium="image" type="image/png" height="204" width="144"/>
 </item>
 </channel>
 </rss>

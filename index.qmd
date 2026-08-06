@@ -1,8 +1,8 @@
 ---
-title: "Estrategias de Investigación Cuantitativa"
+title: "Feminismo de Datos"
 sidebar: main
 details: |
-  SOC01020 • Segundo Semestre 2026<br>Departamento de Sociología, Facultad de Ciencias Sociales<br>Universidad de Chile
+  SOC01303 • Segundo Semestre 2026<br>Departamento de Sociología, Facultad de Ciencias Sociales<br>Universidad de Chile
 toc: false
 page-layout: full
 format:
@@ -52,32 +52,14 @@ withr::with_dir(here::here(), {
   </li> {{< fa calendar-check >}} &nbsp; Horario de consultas: Martes de 14:00 a 15:30 horas</li>
 </ul>
 
+**Ayudante**
 
-
-
-**Apoyo docente**
-
-<div class="image-cropper">
-  <img src="https://ucampus.uchile.cl/d/r/usuario/59/595eac1ba1e7c71fbbea076608baba9c/perfil/496fa860bf25d94e31d726b0778e7ac0.jpg" alt="avatar" class="profile-pic">
-</div>
-
-*María Fernanda Núñez*
-
-<ul style="list-style-type: none; padding-left: 1.5em;">  
-</li> {{< fa university >}} &nbsp;  {{< var other.office >}}</li>
+Maite Jullian Corral
+<ul style="list-style-type: none; padding-left: 1.5em;">
   <li>{{< fa envelope >}} &nbsp; {{< var other.email >}}</li>
+</ul>
 
-
-**Ayudantes**
-- 
-- 
-- 
-- 
-
-
-
-
-:::: {style="background-color: #1E2D59 "}
+:::: {style="background-color: #3cabaf "}
 :::: {.columns}
 
 ::: {.column width="5%"}
@@ -87,7 +69,11 @@ withr::with_dir(here::here(), {
 ::: {.column width="40%"}
 ### <span style="color: #E6E6E6  ;">Sesiones</span>
 
- <span style="color: #E6E6E6 ;"> {{< fa university >}} &nbsp; Pronto </span>
+ <span style="color: #E6E6E6 ;"> {{< fa university >}} &nbsp; 
+ Martes de 10:15 a 13:30 horas.
+ 
+ Sala 33, Facultad de Ciencias Sociales, Universidad de Chile.
+ </span>
 :::
 
 ::: {.column width="10%"}
@@ -96,10 +82,9 @@ withr::with_dir(here::here(), {
 
 ::: {.column width="38%"}
 
-### <span style="color: #E6E6E6  ;">Guías de apoyo del curso</span>
+### <span style="color: #E6E6E6  ;">Libro</span>
 
-- [Guía de lectura: Ayudantía I 2025](https://cuantitativa.netlify.app/resource/ayudantia-01)
-- [Estrategias de estudio y lecto-escritura](https://cuantitativa.netlify.app/resource/estrategias)
+[Feminismo de Datos - Catherine D'Ignazio y Lauren F. Klein](https://data-feminism.mitpress.mit.edu/bienvenida)
 
 
 :::
