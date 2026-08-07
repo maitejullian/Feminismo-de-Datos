@@ -49,7 +49,7 @@ withr::with_dir(here::here(), {
 <ul style="list-style-type: none; padding-left: 1.5em;">
   <li>{{< fa university >}} &nbsp; {{< var instructor.office >}}</li>
   <li>{{< fa envelope >}} &nbsp; {{< var instructor.email >}}</li>
-  </li> {{< fa calendar-check >}} &nbsp; Horario de consultas: Martes de 14:00 a 15:30 horas</li>
+  </li> {{< fa calendar-check >}} &nbsp; Horario de consultas: </li>
 </ul>
 
 **Ayudante**

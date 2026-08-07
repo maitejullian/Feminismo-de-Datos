@@ -48,22 +48,22 @@ website:
       background: "#1E2D59"
       foreground: light
       contents:
-        - text: "Resumen de contenidos"
-          file: resumen.qmd
+        #- text: "Resumen de contenidos"
+         # file: resumen.qmd
        # - text: "Informaciones"
         #  file: news/index.qmd
        # - text: "Horario"
         #  file: schedule.qmd
-        - section: "Clases"
-          contents:
+       # - section: "Clases"
+        #  contents:
            # - text: "Descripción"
             #  file: content/index.qmd
-            - section: "Sesiones"
-              contents:
+         #   - section: "Sesiones"
+          #    contents:
                # - text: "Presentación del curso"
                #   file: content/01-content.qmd
-                - text: "Unidad I: La naturaleza de la investigación social cuantitativa"
-                  file: content/01-content.qmd
+           #     - text: "Unidad I: La naturaleza de la investigación social cuantitativa"
+            #      file: content/01-content.qmd
                # - text: "Unidad II: Diseños de investigación social cuantitativa"
                #   file: content/02-content.qmd
                # - text: "Unidad III: Conceptos y medición"
@@ -80,16 +80,16 @@ website:
                   file: content/13-content.qmd
                 - text: "Complementarias"
                   file: content/14-content.qmd
-        - section: "Talleres"
-          contents:
+      #  - section: "Talleres"
+       #   contents:
 #            - text: "Descripción"
 #              file: assignment/index.qmd
             #- section: "Talleres de clases"
              # contents:
               #  - text: "1: Operacionalización"
                  # file: assignment/01-practico.qmd
-            - section: "Talleres de R"
-              contents:
+         #   - section: "Talleres de R"
+         #     contents:
 #                - text: "1: Índices"
 #                  file: assignment/indices-1.qmd
 #                - text: "2: Calidad índice"
@@ -100,18 +100,18 @@ website:
               #    file: assignment/04-practico.qmd
           #  - text: "Foro Prácticos"
            #   file: assignment/foro-practicos.qmd
-            - text: "Consola R Online"
-              file: assignment/consola.qmd
+          #  - text: "Consola R Online"
+           #   file: assignment/consola.qmd
         - section: "Recursos"
           contents:
-            - text: "Descripción"
-              file: resource/index.qmd
-            - section: "Guías de apoyo"
-              contents:
-                - text: "Ayudantía I"
-                  file: resource/ayudantia-01.qmd
-                - text: "Estrategias de estudio y lecto-escritura"
-                  file: resource/estrategias.qmd
+           # - text: "Descripción"
+             # file: resource/index.qmd
+           # - section: "Guías de apoyo"
+            #  contents:
+             #   - text: "Ayudantía I"
+              #    file: resource/ayudantia-01.qmd
+               # - text: "Estrategias de estudio y lecto-escritura"
+                #  file: resource/estrategias.qmd
             - section: "Recursos Web"
               contents:
                 - text: "Estadística Descriptiva"
