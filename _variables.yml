@@ -1,12 +1,9 @@
-author: María Fernanda Núñez
+author: Maite Jullian Corral
 
 instructor:
   name: Prof. Julieta Palma
- # name_no_title: Juan Castillo
   email: "[jpalma@uchile.cl](mailto:jpalma@uchile.cl)"
   url: "https://facso.uchile.cl/sociologia/cuerpo-academico/palma-julieta-"
- # twitter:
- # github: juancarloscastillo
   office: "301 Sociología FACSO, Universidad de Chile"
   contact_policy: >-
     E-mail es la mejor manera de ponerse en contacto conmigo y con el equipo docente del curso.
@@ -14,20 +11,16 @@ instructor:
 
 other:
   email: "[maite.jullian@ug.uchile.cl](mailto:maite.jullian@ug.uchile.cl)"
-  #appointment_url: "https://calendly.com/maria-fernanda-nunez"
-
-#other2:
-#  email: "[martin.venegas@ug.uchile.cl](mailto:martin.venegas@ug.uchile.cl)"
 
 course:
   number: "PMAP 8521"
   semester: "Segundo 2026"
   days: "Martes"
-  time: " 8:30-11:45"
-  location: "Aulario A9"
+  time: " 10:15-13:30"
+  location: "Sala 33 FACSO"
   dates: "4 Agosto al 28 de Noviembre, 2026"
-  github: "https://github.com/mafenunezz/cuantitativa"
-  url: "https://cuantitativa.netlify.app"
+  github: "https://github.com/maitejullian/Feminismo-de-Datos"
+  url: "https://maitejullian.github.io/Feminismo-de-Datos/"
   copyright_year: "2026"
   slack: ""
 

@@ -24,7 +24,6 @@ library(pander)
 ### Detales del curso
 
 - {{< fa calendar >}} &nbsp; {{< var course.days >}}
-- {{< fa calendar-alt >}} &nbsp; {{< var course.dates >}}
 - {{< fa clock >}} &nbsp; {{< var course.time >}}
 - {{< fa location-dot >}} &nbsp; {{< var course.location >}}
 :::
@@ -35,13 +34,14 @@ library(pander)
 
 ## Propósito general del curso
 
-Al finalizar el curso los estudiantes conocerán distintas estrategias de investigación cuantitativa a partir de las cuales serán capaces de identificar y construir problemas y objetos de investigación factibles de ser abordados a través de cuestionarios. Se espera que los estudiantes conozcan, a partir de la revisión de ejemplos actuales y de reconocida calidad científica, distintas experiencias de investigación cuantitativa; conozcan, diseñen y validen cuestionarios y escalas en el marco de la investigación social; conozcan, construyan y validen índices de medición de diferentes constructos sociales; apliquen los conocimientos adquiridos en los cursos de estadística descriptiva e inferencial; articulen y fundamenten las decisiones adoptadas para abordar y analizar un problema de investigación a través de técnicas cuantitativas; ; integren en la definición de problemas y de decisiones metodológicas fundamentos teóricos de carácter sociológico. Complementariamente se espera que los estudiantes adquieran herramientas que les permitan comunicar diseños y resultados de investigación en contextos sociales, profesionales y académicos.
+Este curso tiene como propósito formar a estudiantes en el análisis crítico y ético de las metodologías cuantitativas desde una perspectiva feminista interseccional. A partir de los principios del feminismo de datos, el curso articula herramientas teóricas y metodológicas para comprender cómo los procesos de diseño, recolección, análisis y visualización de datos cuantitativos pueden reproducir desigualdades sociales o contribuir a su transformación. Se espera que los y las estudiantes desarrollen capacidades para identificar estructuras de poder en los instrumentos y categorías que organizan los datos sociales, desafiar supuestos binarios y jerárquicos, valorar saberes situados y reconocer el trabajo muchas veces invisibilizado en la producción de datos. A través de clases teóricas, discusión de textos clave y talleres prácticos con fuentes y herramientas accesibles, el curso explora críticamente indicadores, encuestas, clasificaciones y visualizaciones empleadas en las ciencias sociales. El curso culmina con el desarrollo de un proyecto aplicado que ponga en práctica los contenidos abordados. Los objetivos del curso se inspiran principalmente en los siete principios propuestos en el libro Data Feminism (D’Ignazio & Klein, 2023): (1) examinar el poder, (2) desafiar el poder, (3) valorar la emoción y la corporalidad, (4) repensar los binarismos y las jerarquías, (5) abrazar el pluralismo, (6) considerar el contexto, y (7) visibilizar el trabajo.
+
 
 ## Competencias
 
-1.  Delimitar, conceptualizar y analizar diversos objetos de investigación social, con especial énfasis en aquellos relacionados con los procesos de transformación del país y Latinoamérica
+1. Delimitar, conceptualizar y analizar diversos objetos de investigación social, con especial énfasis en aquellos relacionados con los procesos de transformación del país y Latinoamérica.
 
-2.  Manejar diversas estrategias metodológicas de las ciencias sociales
+2. Manejar diversas estrategias metodológicas de las ciencias sociales
 
 3. Manejar un conjunto de herramientas para el procesamiento y análisis de información
 
@@ -50,25 +50,25 @@ Al finalizar el curso los estudiantes conocerán distintas estrategias de invest
 
 ## Subcompetencias
 
-1. Manejar un conjunto de paradigmas y enfoques teóricos generados en América Latina, que han procurado explicar el desarrollo de nuestras sociedades, destacando sus aportes críticos y de problematización de la realidad.
+1. Contribuir a generar conocimiento sociológico en el marco de estudios y/o procesos de investigación donde se articulen creativamente las dimensiones teórica, metodológica y práctica.
 
-2. Contribuir a generar conocimiento sociológico en el marco de estudios y/o procesos de investigación donde se articulen creativamente las dimensiones teórica, metodológica y práctica.
-
-3.  Comunicar los saberes disciplinares de manera pertinente a las características de distintos contextos y audiencias, utilizando diversas estrategias y formatos. 
+2. Comunicar los saberes disciplinares de manera pertinente a las características de distintos contextos y audiencias, utilizando diversas estrategias y formatos.
 
 
 ## Resultados del aprendizaje
 
-Al término de esta actividad curricular, se espera que los y las estudiantes sean capaces de:
+Al finalizar este curso, se espera que los y las estudiantes sean capaces de:
 
-1. Comprender la lógica y las principales características de la investigación cuantitativa en el análisis de problemas sociológicos, evaluando sus alcances y limitaciones en relación con otras estrategias metodológicas.
+1. Analizar críticamente los supuestos y prácticas de las metodologías cuantitativas en las ciencias sociales, reconociendo cómo las desigualdades estructurales —como el género, la clase, la raza o la orientación sexual— se reflejan y reproducen en los procesos de diseño, recolección, análisis y presentación de datos cuantitativos.
 
-2. Formular problemas de investigación que puedan ser abordados mediante diseños cuantitativos, identificando y articulando objetivos, hipótesis, conceptos y variables clave, así como los datos requeridos para su análisis. 
+2. Evaluar críticamente instrumentos específicos de producción y representación de datos cuantitativos —como encuestas, índices, escalas, indicadores o visualizaciones— identificando sesgos en su diseño, categorías excluyentes o jerarquías implícitas, y proponer alternativas metodológicas que incorporen perspectivas interseccionales, contextos diversos y criterios de justicia epistémica. 
 
-3. Diseñar y aplicar instrumentos de producción y análisis de información cuantitativa, tales como cuestionarios, índices y escalas; evaluando su validez, confiabilidad y adecuación a los objetivos de investigación.
+3. Diseñar y desarrollar proyectos de investigación empírica que utilicen herramientas cuantitativas con enfoque feminista, integrando principios éticos e interseccionales para abordar problemáticas vinculadas a temas de interés en la sociología.
 
 
 ##  Saberes / Contenidos
+
+Los contenidos del curso se organizan a partir de los siete principios propuestos en el libro Data Feminism (D’Ignazio & Klein, 2023), que serían los siguientes:
 
 ### Unidad I: La naturaleza de la investigación social cuantitativa 
 

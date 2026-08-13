@@ -39,7 +39,7 @@ website:
   open-graph:
     image: "/files/log-transparente.png" # cambiar luego
     locale: es
-
+  
   sidebar:
     - id: main
       style: "docked"
@@ -48,70 +48,10 @@ website:
       background: "#1E2D59"
       foreground: light
       contents:
-        #- text: "Resumen de contenidos"
-         # file: resumen.qmd
-       # - text: "Informaciones"
-        #  file: news/index.qmd
-       # - text: "Horario"
-        #  file: schedule.qmd
-       # - section: "Clases"
-        #  contents:
-           # - text: "Descripción"
-            #  file: content/index.qmd
-         #   - section: "Sesiones"
-          #    contents:
-               # - text: "Presentación del curso"
-               #   file: content/01-content.qmd
-           #     - text: "Unidad I: La naturaleza de la investigación social cuantitativa"
-            #      file: content/01-content.qmd
-               # - text: "Unidad II: Diseños de investigación social cuantitativa"
-               #   file: content/02-content.qmd
-               # - text: "Unidad III: Conceptos y medición"
-               #   file: content/03-content.qmd
-               # - text: "Unidad IV: Construcción de índices y escalas"
-                 # file: content/04-content.qmd
-              #  - text: "Unidad V: La técnica de la encuesta social"
-               #   file: content/05-content.qmd
-           # - text: "Foro Clases"
-            #  file: content/foro-clases.qmd
-            - section: "Lecturas"
-              contents:
-                - text: "Obligatorias"
-                  file: content/13-content.qmd
-                - text: "Complementarias"
-                  file: content/14-content.qmd
-      #  - section: "Talleres"
-       #   contents:
-#            - text: "Descripción"
-#              file: assignment/index.qmd
-            #- section: "Talleres de clases"
-             # contents:
-              #  - text: "1: Operacionalización"
-                 # file: assignment/01-practico.qmd
-         #   - section: "Talleres de R"
-         #     contents:
-#                - text: "1: Índices"
-#                  file: assignment/indices-1.qmd
-#                - text: "2: Calidad índice"
-#                  file: assignment/indices-2.qmd
-#                - text: "3: Base agregada"
-#                  file: assignment/indices-3.qmd
-              #  - text: "4- Matrices de correlación, casos perdidos e índices"
-              #    file: assignment/04-practico.qmd
-          #  - text: "Foro Prácticos"
-           #   file: assignment/foro-practicos.qmd
-          #  - text: "Consola R Online"
-           #   file: assignment/consola.qmd
+        - text: "Programa"
+          file: syllabus.qmd
         - section: "Recursos"
           contents:
-           # - text: "Descripción"
-             # file: resource/index.qmd
-           # - section: "Guías de apoyo"
-            #  contents:
-             #   - text: "Ayudantía I"
-              #    file: resource/ayudantia-01.qmd
-               # - text: "Estrategias de estudio y lecto-escritura"
-                #  file: resource/estrategias.qmd
             - section: "Recursos Web"
               contents:
                 - text: "Estadística Descriptiva"
@@ -120,8 +60,6 @@ website:
                   file: resource/r.qmd
                 - text: "Varios"
                   file: resource/varios.qmd
-       # - text: "Syllabus"
-       #   file: syllabus.qmd
         - icon: cloud-fill
           href: "https://rstudio.cloud"
           aria-label: RStudio.cloud
