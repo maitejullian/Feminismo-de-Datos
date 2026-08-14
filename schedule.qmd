@@ -12,18 +12,6 @@ library(tibble)
 library(pander)
 ```
 
-## Forma general de funcionamiento
-
-Este curso se compone de cuatro actividades principales:
-
--   <i class="fas fa-chalkboard-teacher"></i> [**Clases lectivas presenciales**]():  se expondrán los principales contenidos asociados a cada unidad temática. Las clases lectivas serán realizadas por la profesora y tendrán un carácter expositivo.
-
--   <i class="fas fa-user-edit"></i> [**Talleres**](): buscan ejemplificar e implementar los contenidos teóricos entregados. En estas sesiones se espera que los y las estudiantes, junto con ejercitar los contenidos teóricos entregados, puedan reflexionar acerca de las decisiones metodológicas que tomaron para llevar a cabo dichos ejercicios. Con ello se busca reforzar el carácter reflexivo del proceso de investigación.
-
--   <i class="fas fa-user-edit"></i> [**Ayudantías**](): tendrán como objetivo resolver las dudas que surjan en relación con los contenidos entregados y realizar ejercicios prácticos relacionados con cada unidad. 
-
--   <i class="fas fa-book-reader"></i> [**Lecturas**](): los temas del curso se acompañan de lecturas, las que se encuentras a disposición en esta página.
-
 
 <br>
 
@@ -37,25 +25,18 @@ Este curso se compone de cuatro actividades principales:
   </thead>
   <tbody>
     <!-- UNIDAD 1 -->
-    <tr><td colspan="4" style="padding: 14px; font-size: 22px;"><strong> UNIDAD 1: <i>La naturaleza de la investigación social cuantitativa</i> </strong></td></tr>
+    <tr><td colspan="4" style="padding: 14px; font-size: 22px;"><strong> UNIDAD 1: <i> Introducción </i> </strong></td></tr>
     <tr><td style="padding: 20px;"><span style="color: orange;"><strong>Agosto</strong></span></td><td></td><td></td><td></td></tr>
     <tr>
-      <td style="padding: 14px;">Martes 5</td>
-      <td style="padding: 14px;"><a href="/content/01-content.html">Presentación del curso</a></td>
-      <td style="padding: 14px;"></td>
-      <td style="padding: 14px;"><a href="/files/textos/Cea.pdf">Cea</a> Leer cap. 3 y 4</td>
-    </tr>
-    <tr>
-      <td style="padding: 14px;"></td>
-      <td style="padding: 14px;"><a href="/content/01-content.html">Causalidad, representatividad,<br>confiabilidad, validez y replicabilidad</a></td>
-      <td style="padding: 14px;"></td>
+      <td style="padding: 14px;">Martes 4</td>
+      <td style="padding: 14px;"><a>Presentación del curso</a></td>
       <td style="padding: 14px;"></td>
     </tr>
     <tr>
-      <td style="padding: 14px;">Martes 12</td>
-      <td style="padding: 14px;"><a href="/content/01-content.html">Lógica, medición y limitaciones</a></td>
+      <td style="padding: 14px;">Martes 11</td>
+      <td style="padding: 14px;"><a>¿Qué es el feminismo de datos?</a></td>
       <td style="padding: 14px;"></td>
-      <td style="padding: 14px;"><a href="/files/textos/Desrosieres.pdf">Desrosières</a> Leer cap. 8</td>
+      <td style="padding: 14px;"><a href="/files/textos/Desrosieres.pdf">@dignazio1CapituloPoder2023</a> Leer cap. 8</td>
     </tr>
     <!-- UNIDAD 2 -->
     <tr><td colspan="4" style="padding: 14px; font-size: 22px;"><strong>UNIDAD 2: <i>Diseños de investigación social cuantitativa</i> </strong></td></tr>

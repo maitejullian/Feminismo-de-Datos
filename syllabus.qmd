@@ -68,7 +68,7 @@ Al finalizar este curso, se espera que los y las estudiantes sean capaces de:
 
 ##  Saberes / Contenidos
 
-Los contenidos del curso se organizan a partir de los siete principios propuestos en el libro de Data Feminism @DataFeminism, que serían los siguientes:
+Los contenidos del curso se organizan a partir de los siete principios propuestos en el libro Data Feminism de @DataFeminism, que serían los siguientes:
 
 ### Unidad I: Introducción 
 
@@ -149,7 +149,7 @@ El curso contempla las siguientes evaluaciones:
 
 - Ambos exámenes serán escritos. 
 
-"Las situaciones no cubiertas por este programa se resolverán por las disposiciones existentes en el Reglamento General de Estudios de Pregrado de la Facultad de Ciencias Sociales (Decreto Exento Nº0045106 del 24 de noviembre de 2017). Por último, se advierte que todo acto que falte a la ética e integridad académica será sancionado a partir de las medidas establecidas en los reglamentos existentes en la Universidad de Chile, y que velan por asegurar la calidad en la formación académica"
+"Las situaciones no cubiertas por este programa se resolverán por las disposiciones existentes en el Reglamento General de Estudios de Pregrado de la Facultad de Ciencias Sociales (Decreto Exento Nº0045106 del 24 de noviembre de 2017). Por último, se advierte que todo acto que falte a la ética e integridad académica será sancionado a partir de las medidas establecidas en los reglamentos existentes en la Universidad de Chile, y que velan por asegurar la calidad en la formación académica".
 
 
 
@@ -159,41 +159,56 @@ El curso contempla las siguientes evaluaciones:
 
 - @dignazioIntroduccionPorQue2023
 
-#### Unidad II. Diseños de investigación social cuantitativa 
+#### Unidad II: Examinar el poder 
 
-- Hernández Sampieri, R., Fernández Collado, C., & Baptista Lucio, P. (2014). Metodología de la investigación (6ª ed.). McGraw-Hill. Capítulo 7: Concepción o elección del diseño de investigación.
+- @dignazio1CapituloPoder2023
 
-#### Unidad III. Conceptos y medición 
+#### Unidad III: Desafiar el poder
 
-- Gavarotto, C. A. (2004). El proceso de operacionalización de variables en una teoría social, análisis del suicidio en Durkheim. Cinta de Moebio: Revista Electrónica de Epistemología de Ciencias Sociales, (19), 1. 
+- @dignazio2RecopilarAnalizar2023
 
-- Hernández Sampieri, R., Fernández Collado, C., & Baptista Lucio, P. (2014). Metodología de la investigación (6ª ed.). McGraw-Hill. Capítulo 9: Recolección de datos cuantitativos.
+#### Unidad IV: Valorar la emoción y la corporalidad
 
-#### Unidad IV. Construcción de índices y escalas
+- @dignazio3SobrePuntos2023
 
-- Asún, R. (2006). Construcción de cuestionarios y escalas: El proceso de la producción de información cuantitativa. En Canales, M. Metodologías de la investigación social. Introducción a los oficios. LOM. (pp. 63-113).
+#### Unidad V: Repensar binarismos y jerarquías
 
-- Tanujaya, B., Prahmana, R. C. I., & Mumu, J. (2022). Likert scale in social sciences research: Problems and difficulties. FWU Journal of Social Sciences, 16(4), 89-101.
+- @dignazio4QueSe2023
 
-#### Unidad V. La técnica de la encuesta social
+#### Unidad VI: Abrazar el pluralismo
 
-- Einola, K., & Alvesson, M. (2021). Behind the numbers: Questioning questionnaires. Journal of Management Inquiry, 30(1), 102-114.
+- @dignazio5UnicorniosConserjes2023
 
-- Villarroel, R. (2018). Ética de la investigación social. En: Ética de la investigación en educación. Guía teórica y práctica para investigadores, (pp. 47–58), Ocholibros.
+#### Unidad VII: Considerar el contexto
+
+- @dignazio6NumerosNo2023
+
+#### Unidad VIII: Visibilizar el trabajo
+
+- @dignazio7MuestraTu2023
 
 
 ## Bibliografía Complementaria
 
-- Bryman, A. (2012). Social Research Methods (4th edition). Oxford University Press.
+- @cohenMethodologicalImpactFeminism2011
 
-- De Vaus, D. A. (2014). Surveys in Social Research. 6th Edition, Routledge.
+- @zotero-item-5588
 
-- Graham, A., Powell, M. A., & Taylor, N. (2015). Ethical Research Involving Children: Encouraging Reflexive Engagement in Research with Children and Young People. Children & Society, 29(5), 331–343. doi:10.1111/chso.12089
+- @DataHumanism
 
-- May, T. (2001). Social Research: Issues, Methods, and Design. 3rd Edition, Buckingham: Open University Press. Chapter 4, “Official Statistics: Topic and Resource”, pp 73-92.
+- @kitchinCriticalDataStudies2014
 
-- Vivanco, M. (2006). Diseño de Muestras en la Investigación Social. En Canales, M. Metodologías de la investigación social. Introducción a los oficios. LOM. (pp. 141-167).
+- @nobleAlgorithmsOppressionHow2020
 
+- @oakleyGenderMethodologyPeoples1998
+
+- @scottQuantitativeMethodsGender2010
+
+- @sunsteinOvercomingCognitiveBias2023
+
+- @tachevaTakingCriticalLook2022
+
+- @thatcherDataColonialismAccumulation2016
 
 
 ## Programación de sesiones

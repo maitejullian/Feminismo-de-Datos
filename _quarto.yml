@@ -50,6 +50,8 @@ website:
       contents:
         - text: "Programa"
           file: syllabus.qmd
+        - text: "Planificación"
+          file: schedule.qmd
         - section: "Recursos"
           contents:
             - section: "Recursos Web"
