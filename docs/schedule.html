@@ -24,7 +24,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -191,15 +211,6 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="forma-general-de-funcionamiento" class="level2">
-<h2 class="anchored" data-anchor-id="forma-general-de-funcionamiento">Forma general de funcionamiento</h2>
-<p>Este curso se compone de cuatro actividades principales:</p>
-<ul>
-<li><p><i class="fas fa-chalkboard-teacher"></i> <a href=""><strong>Clases lectivas presenciales</strong></a>: se expondrán los principales contenidos asociados a cada unidad temática. Las clases lectivas serán realizadas por la profesora y tendrán un carácter expositivo.</p></li>
-<li><p><i class="fas fa-user-edit"></i> <a href=""><strong>Talleres</strong></a>: buscan ejemplificar e implementar los contenidos teóricos entregados. En estas sesiones se espera que los y las estudiantes, junto con ejercitar los contenidos teóricos entregados, puedan reflexionar acerca de las decisiones metodológicas que tomaron para llevar a cabo dichos ejercicios. Con ello se busca reforzar el carácter reflexivo del proceso de investigación.</p></li>
-<li><p><i class="fas fa-user-edit"></i> <a href=""><strong>Ayudantías</strong></a>: tendrán como objetivo resolver las dudas que surjan en relación con los contenidos entregados y realizar ejercicios prácticos relacionados con cada unidad.</p></li>
-<li><p><i class="fas fa-book-reader"></i> <a href=""><strong>Lecturas</strong></a>: los temas del curso se acompañan de lecturas, las que se encuentras a disposición en esta página.</p></li>
-</ul>
 <p><br></p>
 <table style="width:100%; border-spacing: 0 12px; font-size: 16px;">
 <thead>
@@ -220,7 +231,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- UNIDAD 1 -->
 <tr>
 <td colspan="4" style="padding: 14px; font-size: 22px;">
-<strong> UNIDAD 1: <i>La naturaleza de la investigación social cuantitativa</i> </strong>
+<strong> UNIDAD 1: <i> Introducción </i> </strong>
 </td>
 </tr>
 <tr>
@@ -236,39 +247,25 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 <tr>
 <td style="padding: 14px;">
-Martes 5
+Martes 4
 </td>
 <td style="padding: 14px;">
-<a href="./content/01-content.html">Presentación del curso</a>
-</td>
-<td style="padding: 14px;">
-</td>
-<td style="padding: 14px;">
-<a href="./files/textos/Cea.pdf">Cea</a> Leer cap. 3 y 4
-</td>
-</tr>
-<tr>
-<td style="padding: 14px;">
-</td>
-<td style="padding: 14px;">
-<a href="./content/01-content.html">Causalidad, representatividad,<br>confiabilidad, validez y replicabilidad</a>
-</td>
-<td style="padding: 14px;">
+<a>Presentación del curso</a>
 </td>
 <td style="padding: 14px;">
 </td>
 </tr>
 <tr>
 <td style="padding: 14px;">
-Martes 12
+Martes 11
 </td>
 <td style="padding: 14px;">
-<a href="./content/01-content.html">Lógica, medición y limitaciones</a>
+<a>¿Qué es el feminismo de datos?</a>
 </td>
 <td style="padding: 14px;">
 </td>
 <td style="padding: 14px;">
-<a href="./files/textos/Desrosieres.pdf">Desrosières</a> Leer cap. 8
+<a href="./files/textos/Desrosieres.pdf"><span class="citation" data-cites="dignazio1CapituloPoder2023">D’Ignazio and Klein (</span></a><a href="#ref-dignazio1CapituloPoder2023" role="doc-biblioref">2023</a>) Leer cap. 8
 </td>
 </tr>
 <!-- UNIDAD 2 -->
@@ -570,7 +567,6 @@ Martes 11
 </tbody>
 </table>
 <p><br></p>
-</section>
 <section id="exámenes-finales-escritos" class="level2">
 <h2 class="anchored" data-anchor-id="exámenes-finales-escritos">Exámenes finales (escritos)</h2>
 <p>Ver <a href="https://cuantitativa.netlify.app/syllabus#requisitos-de-aprobaci%C3%B3n">requisitos de aprobación y eximición</a></p>
@@ -580,9 +576,14 @@ Martes 11
 </ul>
 
 
+
 </section>
 
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-dignazio1CapituloPoder2023" class="csl-entry" role="listitem">
+D’Ignazio, Catherine, and Lauren Klein. 2023. <span>“1 : : <span>El Capítulo</span> Del <span>Poder</span>.”</span> In <em>Feminismo de <span>Datos</span></em>. <a href="https://data-feminism.mitpress.mit.edu/pub/bchsq3az/release/1">https://data-feminism.mitpress.mit.edu/pub/bchsq3az/release/1</a>.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

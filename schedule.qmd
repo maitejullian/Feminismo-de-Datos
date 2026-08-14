@@ -35,40 +35,42 @@ library(pander)
     <tr>
       <td style="padding: 14px;">Martes 11</td>
       <td style="padding: 14px;"><a>¿Qué es el feminismo de datos?</a></td>
-      <td style="padding: 14px;"></td>
-      <td style="padding: 14px;"><a href="/files/textos/Desrosieres.pdf">@dignazio1CapituloPoder2023</a> Leer cap. 8</td>
+      <td style="padding: 14px;"><a href="/assignment/01-assignment.html">Taller de sospecha metodológica</a></td>
+      <td style="padding: 14px;"><a>@dignazioIntroduccionPorQue2023</a> </td>
     </tr>
     <!-- UNIDAD 2 -->
-    <tr><td colspan="4" style="padding: 14px; font-size: 22px;"><strong>UNIDAD 2: <i>Diseños de investigación social cuantitativa</i> </strong></td></tr>
+    <tr><td colspan="4" style="padding: 14px; font-size: 22px;"><strong>UNIDAD 2: <i>Examinar el poder</i> </strong></td></tr>
     <tr>
-      <td style="padding: 14px;">Martes 19</td>
-      <td style="padding: 14px;"><a href="/content/02-content.html">Diseños de investigación</a></td>
-      <td style="padding: 14px;"></td>
-      <td style="padding: 14px;"><a href="/files/textos/Hernandez.pdf">Hernández, Fernández & Baptista</a> Leer cap. 7</td>
+      <td style="padding: 14px;">Martes 18</td>
+      <td style="padding: 14px;"><a>Relación entre datos, desigualdad y dominación.</a></td>
+      <td style="padding: 14px;"><a>Taller de evaluación crítica de cuestionarios</a></td>
+      <td style="padding: 14px;"><a>@dignazio1CapituloPoder2023</a></td>
     </tr>
     <tr style="background-color: #e0e0e0;">
-      <td style="padding: 14px;">Martes 26</td>
-      <td style="padding: 14px;"><b>Suspendida</b></td>
+      <td style="padding: 14px;">Martes 25</td>
+      <td style="padding: 14px;"><b>Tutorías trabajo 1</b></td>
       <td style="padding: 14px;"></td>
       <td style="padding: 14px;"></td>
     </tr>
     <!-- UNIDAD 3 -->
-    <tr><td colspan="4" style="padding: 14px; font-size: 22px;"><strong> UNIDAD 3: <i>Conceptos y medición</i></strong></td></tr>
+    <tr><td colspan="4" style="padding: 14px; font-size: 22px;"><strong> UNIDAD 3: <i>Desafiar el poder</i></strong></td></tr>
     <tr><td style="padding: 20px;"><span style="color: orange;"><strong>Septiembre</strong></span></td><td></td><td></td><td></td></tr>
     <tr>
-      <td style="padding: 14px;">Martes 2</td>
-      <td style="padding: 14px;"><a href="/content/05-content.html"> Tipos de variables, indicadores directos e indirectos, indicadores sociales</a></td>
-      <td style="padding: 14px;"></td>
-      <td style="padding: 14px;"><a href="/files/textos/Gavarotto.pdf">Gavarotto</a></td>
+      <td style="padding: 14px;">Martes 1</td>
+      <td style="padding: 14px;"><a>Activismo de datos, participación ciudadana y empoderamiento colectivo.</a></td>
+      <td style="padding: 14px;"><a>Taller de contra-mapeo colectivo</a></td>
+      <td style="padding: 14px;"><a>@dignazio2RecopilarAnalizar2023</a></td>
     </tr>
+    <!-- UNIDAD 4 -->
+    <tr><td colspan="4" style="padding: 14px; font-size: 22px;"><strong> UNIDAD 4: <i>Valorar la emoción y la corporalidad</i></strong></td></tr>
     <tr>
-      <td style="padding: 14px;">Martes 9</td>
-      <td style="padding: 14px;"><a href="/content/06-content.html"> </a></td>
-      <td style="padding: 14px;"><a href="/assignment/01-assignment.html">Taller de operacionalización</a></td>
-      <td style="padding: 14px;"><a href="/files/textos/Hernandez.pdf">Hernández, Fernández & Baptista</a>  Leer cap. 9</td>
+      <td style="padding: 14px;">Martes 8</td>
+      <td style="padding: 14px;"><a>Crítica a la idea de neutralidad en la ciencia de datos.</a></td>
+      <td style="padding: 14px;"><a>Entrega trabajo 1</a></td>
+      <td style="padding: 14px;"><a>@dignazio3SobrePuntos2023</a></td>
     </tr>
     <tr style="background-color: #e0e0e0;">
-      <td style="padding: 14px;">Martes 16</td>
+      <td style="padding: 14px;">Martes 15</td>
       <td style="padding: 14px;"><b>Pausa</b></td>
       <td style="padding: 14px;"></td>
       <td style="padding: 14px;"></td>
@@ -76,104 +78,76 @@ library(pander)
     <tr>
         </tr>
     <tr style="background-color: #F2DFCD;">
-      <td style="padding: 14px;">Martes 23</td>
-      <td style="padding: 14px;"><b>Prueba I</b></td>
-      <td style="padding: 14px;"></td>
-      <td style="padding: 14px;"></td>
-    </tr>
-      <tr>
-      <td style="padding: 14px;">Martes 30</td>
-      <td style="padding: 14px;"><a href="/content/06-content.html"> </a></td>
-      <td style="padding: 14px;"><a href="/assignment/01-assignment.html">Taller de operacionalización</a></td>
-    </tr>
-    <!-- UNIDAD 4 -->
-    <tr><td colspan="4" style="padding: 14px; font-size: 22px;"><strong> UNIDAD 4: <i>Construcción de índices y escalas</i>
-</strong></td></tr>
-    <tr><td style="padding:20px;"><span style="color: orange;"><strong>Octubre</strong></span></td><td></td><td></td><td></td></tr>
-    <tr>
-      <td style="padding: 14px;">Martes 7</td>
-      <td style="padding: 14px;"><a href="/content/08-content.html">Construcción de índices</a></td>
-      <td style="padding: 14px;"></td>
-      <td style="padding: 14px;"><a href="/files/textos/Asun.pdf">Asún</a> Leer Construcción de cuestionarios y escalas</td>
-    </tr>
-      </tr>
-    <tr style="background-color: #F2DFCD;">
-      <td style="padding: 14px;">Martes 14</td>
-      <td style="padding: 14px;"><b>Prueba II</b></td>
-      <td style="padding: 14px;"></td>
-      <td style="padding: 14px;"></td>
-    </tr>
-    <tr>
-      <tr>
-      <td style="padding: 14px;">Martes 21</td>
-      <td style="padding: 14px;"><a href="/content/09-content.hmtl">Construcción de escalas</a></td>
-      <td style="padding: 14px;"><a>Taller de índices y escalas*</a></td>
-      <td style="padding: 14px;"><a href="/files/textos/Tanujaya.pdf">Tanujaya, Prahmana & Mumu</a></td>
-    </tr>
-    <tr style="background-color: #e0e0e0;">
-      <td style="padding: 14px;">Martes 28</td>
-      <td style="padding: 14px;"><b>Pausa</b></td>
-      <td style="padding: 14px;"></td>
-      <td style="padding: 14px;"></td>
+      <td style="padding: 14px;">Martes 22</td>
+      <td style="padding: 14px;"><b></b></td>
+      <td style="padding: 14px;"><b>Taller de diseño de instrumentos mixtos</b></td>
+      <td style="padding: 14px;"><b>@dignazio3SobrePuntos2023</b></td>
     </tr>
     <!-- UNIDAD 5 -->
-    <tr><td colspan="4" style="padding: 14px; font-size: 22px;"><strong> UNIDAD 5: <i>La técnica de la encuesta social</i>
-</strong></td></tr>
+    <tr><td colspan="4" style="padding: 14px; font-size: 22px;"><strong> UNIDAD 5: <i>Repensar binarismos y jerarquías</i></strong></td></tr>
+    <tr>
+      <td style="padding: 14px;">Martes 29</td>
+      <td style="padding: 14px;"><a>Inclusión de identidades y experiencias que no encajan en categorías dominantes.</a></td>
+      <td style="padding: 14px;"><a>Taller sobre producción de datos y diversidad sexo-genérica</a></td>
+      <td style="padding: 14px;"><b>@dignazio4QueSe2023</b></td>
+    </tr>
+    <!-- UNIDAD 6 -->
+    <tr><td colspan="4" style="padding: 14px; font-size: 22px;"><strong> UNIDAD 6: <i>Abrazar el pluralismo</i></strong></td></tr>
+    <tr>
+      <td style="padding:20px;"><span style="color: orange;"><strong>Octubre</strong></span></td><td></td><td></td><td></td>
+    </tr>
+    <tr>
+      <td style="padding: 14px;">Martes 6</td>
+      <td style="padding: 14px;"><a>Diálogo entre datos técnicos y conocimientos experienciales.</a></td>
+      <td style="padding: 14px;"><a>Taller de cartografía de saberes</a></td>
+      <td style="padding: 14px;"><a>@dignazio5UnicorniosConserjes2023</a></td>
+    </tr>
+      </tr>
+    <!-- UNIDAD 7 -->
+    <tr><td colspan="4" style="padding: 14px; font-size: 22px;"><strong> UNIDAD 7: <i>Considerar el contexto</i></strong></td></tr>
+    <tr style="background-color: #F2DFCD;">
+      <td style="padding: 14px;">Martes 13</td>
+      <td style="padding: 14px;"><b>Importancia de contextualizar indicadores e interpretaciones.</b></td>
+      <td style="padding: 14px;"><a>Taller de lectura de metadatos</a></td>
+      <td style="padding: 14px;"><a>@dignazio6NumerosNo2023</a></td>
+    </tr>
+    <!-- UNIDAD 8 -->
+    <tr><td colspan="4" style="padding: 14px; font-size: 22px;"><strong> UNIDAD 8: <i>Hacer visible el trabajo</i></strong></td></tr>
+    <tr>
+      <tr>
+      <td style="padding: 14px;">Martes 20</td>
+      <td style="padding: 14px;"><a>Perspectiva crítica sobre la economía política de la ciencia de datos.</a></td>
+      <td style="padding: 14px;"><a>Taller de cadena de producción de datos</a></td>
+      <td style="padding: 14px;"><a>@dignazio7MuestraTu2023</a></td>
+    </tr>
+    <tr style="background-color: #e0e0e0;">
+      <td style="padding: 14px;">Martes 27</td>
+      <td style="padding: 14px;"><b>Presentaciones Trabajo 2</b></td>
+      <td style="padding: 14px;"></td>
+      <td style="padding: 14px;"></td>
+    </tr>
     <tr><td style="padding: 20px;"><span style="color: orange;"><strong>Noviembre</strong></span></td><td></td><td></td><td></td></tr>
     <tr>
-      <td style="padding: 14px;">Martes 4</td>
-      <td style="padding: 14px;"><a href="/content/10-content.html">Introducción a la encuesta</a></td>
-      <td style="padding: 14px;"></td>
-      <td style="padding: 14px;"><a href="/files/textos/Einola.pdf">Einola & Alvesson</a></td>
-    </tr>
-    <tr style="background-color: #F2DFCD;">
-      <td style="padding: 14px;"></td>
-      <td style="padding: 14px;"><b>Entrega trabajo I</b></td>
-      <td style="padding: 14px;"></td>
-      <td style="padding: 14px;"></td>
-    </tr>
-    <tr>
-      <td style="padding: 14px;">Martes 11</td>
-      <td style="padding: 14px;"><a href="/content/11-content.html">Evaluación crítica de encuestas sociales</a></td>
-      <td style="padding: 14px;"><a href="/assignment/04-assignment.html">Taller de cuestionarios</a></td>
-      <td style="padding: 14px;"><a href="/files/textos/Villarroel.pdf">Villarroel</a></td>
-    </tr>
-    <tr>
-      <td style="padding: 14px;">Martes 18</td>
-      <td style="padding: 14px;"><a href="/content/10-content.html">Introducción al muestreo</a></td>
+      <td style="padding: 14px;">Martes 3</td>
+      <td style="padding: 14px;"><a>Presentaciones Trabajo 2</a></td>
       <td style="padding: 14px;"></td>
       <td style="padding: 14px;"></td>
     </tr>
     <tr style="background-color: #F2DFCD;">
-      <td style="padding: 14px;">Martes 25</td>
-      <td style="padding: 14px;"><b>Entrega trabajo II</b></td>
-      <td style="padding: 14px;"></td>
-      <td style="padding: 14px;"></td>
-    </tr>
-    <tr><td style="padding: 20px;"><span style="color: orange;"><strong>Diciembre</strong></span></td><td></td><td></td><td></td></tr>
-    <tr style="background-color: #e0e0e0;">
-      <td style="padding: 14px;">Martes 2</td>
-      <td style="padding: 14px;"><b>Exámenes</b></td>
-      <td style="padding: 14px;"></td>
-      <td style="padding: 14px;"></td>
-    </tr>
-    <tr style="background-color: #e0e0e0;">
-      <td style="padding: 14px;">Martes 11</td>
-      <td style="padding: 14px;"><b>Exámenes</b></td>
+      <td style="padding: 14px;">Martes 10</td>
+      <td style="padding: 14px;"><b>Presentaciones Trabajo 2</b></td>
       <td style="padding: 14px;"></td>
       <td style="padding: 14px;"></td>
     </tr>
   </tbody>
 </table>
 
-
-
                        
 <br>
 
 ## Exámenes finales (escritos)
 
-Ver [requisitos de aprobación y eximición](https://cuantitativa.netlify.app/syllabus#requisitos-de-aprobaci%C3%B3n)
+Ver [requisitos de aprobación y eximición](https://maitejullian.github.io/Feminismo-de-Datos/syllabus.html#requisitos-de-aprobaci%C3%B3n)
 
 -   Examen de primera oportunidad: ***próximamente...*** 
 
