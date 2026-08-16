@@ -30,12 +30,6 @@ website:
 
   favicon: "/files/log-transparente.png" #revisar
 
-  # twitter-card:
-  #  image: "/files/social-image-sp23.png"
-  #  card-style: summary_large_image
-  #  creator: "@andrewheiss"
-    # site: "@andrewheiss"
-
   open-graph:
     image: "/files/log-transparente.png" # cambiar luego
     locale: es
@@ -45,7 +39,7 @@ website:
       style: "docked"
       search: false
       lang: es
-      background: "#1E2D59"
+      background: "#3cabaf"
       foreground: light
       contents:
         - text: "Programa"
@@ -54,21 +48,15 @@ website:
           file: schedule.qmd
         - section: "Recursos"
           contents:
-            - section: "Recursos Web"
-              contents:
-                - text: "Estadística Descriptiva"
-                  file: resource/ed.qmd
-                - text: "Uso de R"
-                  file: resource/r.qmd
-                - text: "Varios"
-                  file: resource/varios.qmd
+          - text: "Varios"
+            file: resource/varios.qmd
         - icon: cloud-fill
           href: "https://rstudio.cloud"
           aria-label: RStudio.cloud
 
   page-footer:
     left: |
-      Content {{< fa brands creative-commons >}} {{< var course.copyright_year >}} by María Fernanda Núñez <br>
+      Content {{< fa brands creative-commons >}} {{< var course.copyright_year >}} by Maite Jullian Corral <br>
       All content licensed under a {{< fa brands creative-commons >}}
       {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-nc >}}
       [Creative Commons Attribution-NonCommercial 4.0 International license (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)

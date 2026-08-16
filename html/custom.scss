@@ -53,7 +53,7 @@ $sidebar-font-size: 1.1rem;
 $sidebar-font-size-section: 0.9rem;
 
 $link-color: $red;
-$link-hover-color: $yellow;
+$link-hover-color: #2e3440;
 
 $monokai-bg: #2e3440;
 
@@ -71,11 +71,11 @@ ol {
 
 // Custom active link colors
 .navbar-dark .navbar-nav .show > .nav-link, .navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.active {
-  color: #FFC361;
+  color: #2e3440;
 }
 
 div.sidebar-item-container .active, div.sidebar-item-container .show > .nav-link, div.sidebar-item-container .sidebar-link > code {
-  color: $yellow;
+  color: #2e3440;
 }
 
 
