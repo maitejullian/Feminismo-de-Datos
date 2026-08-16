@@ -25,7 +25,7 @@ library(pander)
   <tbody>
     <!-- UNIDAD 1 -->
     <tr><td colspan="4" style="padding: 14px; font-size: 22px;"><strong> UNIDAD 1: <i> Introducción </i> </strong></td></tr>
-    <tr><td style="padding: 20px;"><span style="color: orange;"><strong>Agosto</strong></span></td><td></td><td></td><td></td></tr>
+    <tr><td style="padding: 20px;"><span style="color: #3cabaf;"><strong>Agosto</strong></span></td><td></td><td></td><td></td></tr>
     <tr>
       <td style="padding: 14px;">Martes 4</td>
       <td style="padding: 14px;"><a>Presentación del curso</a></td>
@@ -62,7 +62,7 @@ library(pander)
     </tr>
     <!-- UNIDAD 4 -->
     <tr><td colspan="4" style="padding: 14px; font-size: 22px;"><strong> UNIDAD 4: <i>Valorar la emoción y la corporalidad</i></strong></td></tr>
-    <tr>
+    <tr style="background-color: #e0e0e0;">
       <td style="padding: 14px;">Martes 8</td>
       <td style="padding: 14px;"><a>Crítica a la idea de neutralidad en la ciencia de datos.</a></td>
       <td style="padding: 14px;"><a>Entrega trabajo 1</a></td>
@@ -76,7 +76,7 @@ library(pander)
     </tr>
     <tr>
         </tr>
-    <tr style="background-color: #F2DFCD;">
+    <tr>
       <td style="padding: 14px;">Martes 22</td>
       <td style="padding: 14px;"><b></b></td>
       <td style="padding: 14px;"><b>Taller de diseño de instrumentos mixtos</b></td>
@@ -104,7 +104,7 @@ library(pander)
       </tr>
     <!-- UNIDAD 7 -->
     <tr><td colspan="4" style="padding: 14px; font-size: 22px;"><strong> UNIDAD 7: <i>Considerar el contexto</i></strong></td></tr>
-    <tr style="background-color: #F2DFCD;">
+    <tr>
       <td style="padding: 14px;">Martes 13</td>
       <td style="padding: 14px;"><b>Importancia de contextualizar indicadores e interpretaciones.</b></td>
       <td style="padding: 14px;"><a>Taller de lectura de metadatos</a></td>
@@ -126,13 +126,13 @@ library(pander)
       <td style="padding: 14px;"></td>
     </tr>
     <tr><td style="padding: 20px;"><span style="color: orange;"><strong>Noviembre</strong></span></td><td></td><td></td><td></td></tr>
-    <tr>
+    <tr style="background-color: #e0e0e0;">
       <td style="padding: 14px;">Martes 3</td>
       <td style="padding: 14px;"><a>Presentaciones Trabajo 2</a></td>
       <td style="padding: 14px;"></td>
       <td style="padding: 14px;"></td>
     </tr>
-    <tr style="background-color: #F2DFCD;">
+    <tr style="background-color: #e0e0e0;">
       <td style="padding: 14px;">Martes 10</td>
       <td style="padding: 14px;"><b>Presentaciones Trabajo 2</b></td>
       <td style="padding: 14px;"></td>

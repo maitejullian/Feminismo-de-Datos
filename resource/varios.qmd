@@ -14,8 +14,6 @@ execute:
 
 - [Sistema de Indicadores Regionales de Desigualdades de Género (SIRDG-Descentrando)](https://www.descentrando.cl/sirdg/)
 
-- [Causal Inference: A Guide for Policymakers](https://simons.berkeley.edu/news/causal-inference-guide-policymakers) 
-
-- [Bases de datos para trabajos o investigación](https://descriptiva-facso.netlify.app/resource/01-resource)
+- [Observatorio de igualdad de género](https://oig.cepal.org/es)
 
 
